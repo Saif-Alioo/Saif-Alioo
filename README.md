@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
+</p>
 <h1 align="center">Hi 👋, I'm Md Saif Ali</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
