@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hi 👋, I'm Md Saif Ali</h1>
-<h1 align="center">💻Intern In Cognizant</h1>
+<h1 align="center">💻Intern At Cognizant</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-alioo&label=Profile%20views&color=0e75b6&style=flat" alt="saif-alioo" /> </p>
