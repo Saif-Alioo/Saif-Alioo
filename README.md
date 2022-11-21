@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hi 👋, I'm Md Saif Ali</h1>
-<h1 align="center">💻Intern At Cognizant</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center">💻Cognizant family member</h1>
+<h3 align="center">A passionate full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-alioo&label=Profile%20views&color=0e75b6&style=flat" alt="saif-alioo" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **HealthCare Website**
 
-- 🌱 I’m currently learning **Rect Js**
+- 🌱 I’m currently learning **Junit**
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saif-Alioo](https://github.com/Saif-Alioo)
 
-- 💬 Ask me about **Data Structure, JavaScript**
+- 💬 Ask me about **Microservices, Spring Framework**
 
 - 📫 How to reach me **mdsaifalikhan786777@gmail.com**
 
